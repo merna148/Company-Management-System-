@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641973994 source:c:\users\merna\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641973994 source:c:\users\merna\desktop\programming\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
